@@ -173,5 +173,4 @@ MIT License
 
 ## 🙌 Author
 
-Developed by [your-name]  
-For more tools like this, visit: [your-website]
+Developed by Chenzhe Xu 
